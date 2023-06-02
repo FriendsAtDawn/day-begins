@@ -76,7 +76,7 @@ enableRobotsTXT = true
   recent_posts_number = 3
   post_content_classes = "athelas"
   body_classes = "times"
-  feature_image = "/main/images/cover.jpg"
+  feature_image = "cover.jpg"
   mainSections = ['posts', 'modelos']
 
 [[params.ananke_socials]]
