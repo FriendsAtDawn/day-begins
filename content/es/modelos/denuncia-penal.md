@@ -17,7 +17,7 @@ públicos de contenido falso\>\>.
 
 Señor Agente Fiscal de Turno:
 
-[REDACTADO]n virtud de la carga de denunciar los hechos punibles
+[REDACTADO] en virtud de la carga de denunciar los hechos punibles
 inserto en el Código Procesal Penal vengo por el presente escrito a
 presentar denuncia de hechos que *podrían*, en caso de verificarse el
 dolo, subsumirse dentro del tipo objetivo del artículo 251:
