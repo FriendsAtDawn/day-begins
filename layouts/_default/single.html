@@ -2,7 +2,7 @@
   <head>
     <title>{{ .Title }}</title>
     <style></style>
-    {{- $js := resources.Get "/js/utterances.ts" }}
+    {{- $js := resources.Get "js/utterances.ts" }}
     {{- $js = $js | js.Build }}
     <script src="{{ $js.RelPermalink }}"></script>
   </head>
