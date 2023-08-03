@@ -2,13 +2,13 @@
   <head>
     <title>{{ .Title }}</title>
     <style></style>
-    {{- $js := resources.Get "js/utterances.ts" }}
+    {{- $js := resources.Get "assets/js/utterances.ts" }}
     {{- $js = $js | js.Build }}
     <script src="{{ $js.RelPermalink }}"></script>
   </head>
   <body>
     <h1>
-      <a href="hugomods/utterances"
+      <a href="github.com/hugomods/utterances"
         >{{ .Title }}</a
       >
     </h1>
