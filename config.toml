@@ -3,7 +3,7 @@ baseURL = "/"
 languageCode = "es"
 theme = ["hugo-embed-pdf-shortcode", "ananke", "github.com/hugomods/utterances"]
 enableInlineShortcodes = true
-resourceDir = "../resources"
+#resourceDir = "../resources"
 
 DefaultContentLanguage = "es"
 SectionPagesMenu = "main"
