@@ -96,7 +96,7 @@ enableRobotsTXT = true
         #   url:      Utterances will search for an issue whose title contains the blog post's URL.
         #   title:    Utterances will search for an issue whose title contains the blog post's title.
         #   og:title: Utterances will search for an issue whose title contains the page's Open Graph title meta.
-        mapping = "day-begins"
+        mapping = "pathname"
 
         # The label that will be assigned to issues created by Utterances.
         label = "Comentarios"
