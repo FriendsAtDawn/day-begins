@@ -86,10 +86,10 @@ enableRobotsTXT = true
 
 [params.utterances]
         # Client script endpoint.
-        endpoint = "https://utteranc.es/"
+        endpoint = ""
 
         # The GitHub repository, required.
-        repo = "hugomods/utterances"
+        repo = ""
 
         # The mapping between blog posts and GitHub issues. Available options:
         #   pathname: Utterances will search for an issue whose title contains the blog post's pathname URL component.
