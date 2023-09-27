@@ -1,7 +1,7 @@
 title = "Wilson Villalba"
 baseURL = "/"
 languageCode = "es"
-theme = ["hugo-embed-pdf-shortcode", "ananke", "github.com/hugomods/utterances"]
+theme = ["hugo-embed-pdf-shortcode", "ananke"]
 enableInlineShortcodes = true
 resourceDir = "../resources"
 
